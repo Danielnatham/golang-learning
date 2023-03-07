@@ -4,9 +4,9 @@ Repository to put my learning stuff in golang
 
 ## Useful Links
 
-[Road map](https://roadmap.sh/golang)
-[Go Exercises](https://gophercises.com/)
-[Go Boot camp](https://playbook.one2n.in/go-bootcamp)
+- [Road map](https://roadmap.sh/golang)
+- [Go Exercises](https://gophercises.com/)
+- [Go Boot camp](https://playbook.one2n.in/go-bootcamp)
 
 ## Learning content
 
